@@ -1,5 +1,5 @@
 - Hi there! 👋 I'm Vijay
-  🔹 Web Developer | 💻 Open Source Enthusiast | 🌐 Tech Explorer
+- 🔹 Web Developer | 💻 Open Source Enthusiast | 🌐 Tech Explorer
 - 🌱 I’m currently learning full stack web development
 - 📬 Contact: Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 - 📧 Email: vijaymuppalla01@gmail.com
