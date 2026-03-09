@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CSE+Student;Web+Developer;Learning+React;Building+Projects&center=true&width=500&height=50">
 </p>
 
-
 ---
 
 ## 🛠️ Tech Stack
