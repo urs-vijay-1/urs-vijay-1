@@ -29,13 +29,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urs-vijay-1\&show_icons=true\&theme=tokyonight)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urs-vijay-1&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urs-vijay-1\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urs-vijay-1&layout=compact&theme=tokyonight)
 
 ---
 
