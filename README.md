@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Vijay</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CSE+Student;Web+Developer;Learning+React;Building+Projects&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CSE+Student;Web+Developer;Learning+React;Java+Developer;Building+Projects&center=true&width=500&height=50">
 </p>
 
 ---
@@ -24,7 +24,7 @@
 🔹 Donar Net
 🔹 Expense Tracker
 🔹 Portfolio Website
-
+🔹 Student Management System
 ---
 ## 📫 Connect with me
 
